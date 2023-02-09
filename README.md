@@ -1,4 +1,4 @@
 # My-Code-Library
 Algorithm Problem Solving <br>
 
-1. Longest Common Subsequence
+1. Longest Common Subsequence (using Dynamic Programming)
