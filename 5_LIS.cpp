@@ -4,6 +4,26 @@ using namespace std;
 
 int longestIncSubsequence(int arr[], int n)
 {
+    int count = 0, res = 0, prev;
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = i; j < n; j++)
+        {
+            prev = arr[i];
+            if (arr[j] > prev)
+            {
+                count++;
+                prev = arr[j];
+            }
+        }
+        res = max(res, count);
+        count = 0;
+    }
+    return res;
+}
+
+int longestIncSubsequence1(int arr[], int n)
+{
     int LIS[n] = {1};
     for (int i = 1; i < n; i++)
     {
