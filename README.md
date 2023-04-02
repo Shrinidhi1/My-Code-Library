@@ -35,4 +35,19 @@ Algorithm Problem Solving <br>
 32. Elevator Rides
 33. Count Tilings
 34. Counting Numbers
-
+35. Shortest Subsequence
+36. Counting Bits
+37. Swap Game
+38. Prufer Game
+39. Advertisements
+40. Subset Sum
+41. Maximum Xor Subarray
+42. Chess Tournament
+43. Network Renovations
+44. Tree Traversal
+45. Graph Girth
+46. Intersection Points
+47. String Reorder
+48. Pyramid Array
+49. Increasing Subsequence
+50. 
