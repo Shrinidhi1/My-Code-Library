@@ -13,3 +13,4 @@ Algorithm Problem Solving <br>
 10. First Occurence of 1 in binary
 11. Stolen Value Problem
 12. Rod Cutting Problem
+13. Case Toggling
