@@ -14,3 +14,6 @@ Algorithm Problem Solving <br>
 11. Stolen Value Problem
 12. Rod Cutting Problem
 13. Case Toggling
+14. Gaming Array Problem
+15. Edit Distance Problem
+16. Coin Combination
