@@ -21,4 +21,18 @@ Algorithm Problem Solving <br>
 18. Coin Combination 2
 19. Fermat's Little Theorem
 20. Modular Operation
-21. 
+21. Dice Combinations
+22. Remove Digits
+23. Grid Paths
+24. Book Shops
+25. Array Description
+26. Counting Towers
+27. Rectangle Cuts
+28. Money Sums
+29. Removal Games
+30. Two Sets II
+31. Projects
+32. Elevator Rides
+33. Count Tilings
+34. Counting Numbers
+
