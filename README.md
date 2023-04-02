@@ -10,3 +10,4 @@ Algorithm Problem Solving <br>
 7. Segment Tree
 8. Pascal's Triangle
 9. Kadane's Algorithm
+10. First Occurence of 1 in binary
