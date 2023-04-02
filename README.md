@@ -16,4 +16,7 @@ Algorithm Problem Solving <br>
 13. Case Toggling
 14. Gaming Array Problem
 15. Edit Distance Problem
-16. Coin Combination
+16. Minimizing Coin
+17. Coin Combintion 1
+18. Coin Combination 2
+19. Fermat's Little Theorem
