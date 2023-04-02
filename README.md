@@ -50,4 +50,23 @@ Algorithm Problem Solving <br>
 47. String Reorder
 48. Pyramid Array
 49. Increasing Subsequence
-50. 
+50. String Removal
+51. Bit Inversion
+52. Writing Numbers
+53. String Transformation
+54. Maximum Building
+55. Sorting Methods
+56. Bit Problem
+57. Tree Isomorphism
+58. School Excursion
+59. Coin Grid
+60. Book Shop II
+61. Network Breakdown
+62. Visiting Cities
+63. Number Grid
+64. Stick Divisions
+65. Tree Isomorphism
+66. Josephus Queries
+67. Permutations
+68. 
+56. 
