@@ -11,3 +11,4 @@ Algorithm Problem Solving <br>
 8. Pascal's Triangle
 9. Kadane's Algorithm
 10. First Occurence of 1 in binary
+11. Stolen Value Problem
