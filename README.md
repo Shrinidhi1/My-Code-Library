@@ -69,3 +69,35 @@ Algorithm Problem Solving <br>
 66. Josephus Queries
 67. Permutations
 68. Nested Range Checks
+69. Nested Range Counts
+70. Subarray Distinct
+71. Maximum Subarray Sum II
+72. Prefix Subarray Sum
+73. Pizzeria Queries
+74. Range Queries Copies
+75. Divisor Analysis
+76. Prime Mutiples
+77. Co prime Pairs
+78. Bracket Sequence I
+79. Bracket Sequence II
+80. Count Necklaces
+81. Count Grids
+82. Candy Lottery
+83. Grundy's Game
+84. Another Game
+85. Find Patterns
+86. Count Patterns
+87. Pattern Positions
+88. Distinct Substrings
+89. Repeating Substrings
+90. String Functions
+91. Substring Order
+92. Substring Distribution
+93. Subarray Squares
+94. Houses and Schools
+95. Knuth Division
+96. Hamming Distance
+97. Reach Nodes
+98. Missing Coins Sum
+99. Digit Queries
+100. Mo's Queries
